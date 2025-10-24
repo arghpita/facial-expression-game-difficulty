@@ -101,7 +101,7 @@ pillow>=10.0.0
    This project requires the FER2013 dataset which is not included due to size (300MB).
    
    **Download:**
-   1. Go to [Kaggle FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
+   1. Go to [Kaggle FER2013](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
    2. Download `fer2013.csv`
    3. Place in project root directory
 
