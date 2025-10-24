@@ -675,7 +675,7 @@ This project is for educational purposes.
 - **FER2013 Dataset**: Goodfellow et al., 2013 - ICML Challenges in Representation Learning
 - **TensorFlow/Keras**: Deep learning framework
 - **OpenCV**: Computer vision library
-- **Course**: ALY6080 / CMSC 498L with Professor Kenneth Parker
+- **Course**: ALY6080 with Professor Mimoza Dimodugno
 - **Community**: Stack Overflow, GitHub, Kaggle communities
 
 ---
