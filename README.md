@@ -24,8 +24,6 @@ A real-time computer vision system that uses deep learning to recognize facial e
 - [Performance Tips](#performance-tips)
 - [Known Issues](#known-issues)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -647,29 +645,6 @@ pip install tensorflow[and-cuda]
 
 ---
 
-## Contributing
-
-This is an educational project. Suggestions and improvements welcome!
-
-**To contribute:**
-1. Fork the repository
-2. Create feature branch
-3. Make changes with clear comments
-4. Test thoroughly
-5. Submit pull request with description
-
----
-
-## License
-
-This project is for educational purposes. 
-
-**Dataset License**: FER2013 dataset has its own terms of use.
-
-**Code License**: Open for educational use. Not for commercial use without permission.
-
----
-
 ## Acknowledgments
 
 - **FER2013 Dataset**: Goodfellow et al., 2013 - ICML Challenges in Representation Learning
@@ -685,8 +660,8 @@ This project is for educational purposes.
 If you use this project in your work, please cite:
 
 ```
-[Your Name] (2025). Facial Expression Recognition for Dynamic Game Difficulty Adjustment.
-Educational project for ALY6080/CMSC 498L. [University Name].
+Arpita Kachhwah, Mohammed Omer Ahmed (2025). Facial Expression Recognition for Dynamic Game Difficulty Adjustment.
+Educational project for ALY6080. Northeastern University.
 ```
 
 ---
@@ -695,7 +670,7 @@ Educational project for ALY6080/CMSC 498L. [University Name].
 
 **Questions?** Check:
 1. This README (you're here!)
-2. Detailed report: `FacialExpressionRecognition_[YourName]_Report.md`
+2. Detailed report: `FacialExpressionRecognition_Report.md`
 3. Code comments in Python files
 
 **Still stuck?** 
