@@ -14,6 +14,7 @@ A real-time computer vision system that uses deep learning to recognize facial e
 - [Overview](#overview)
 - [Features](#features)
 - [System Requirements](#system-requirements)
+- [Dataset Required](#dataset-required)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Project Structure](#project-structure)
@@ -95,6 +96,14 @@ matplotlib>=3.7.0
 scikit-learn>=1.3.0
 pillow>=10.0.0
 ```
+## Dataset Required
+   
+   This project requires the FER2013 dataset which is not included due to size (300MB).
+   
+   **Download:**
+   1. Go to [Kaggle FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
+   2. Download `fer2013.csv`
+   3. Place in project root directory
 
 ---
 
