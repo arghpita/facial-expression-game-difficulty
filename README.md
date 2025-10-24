@@ -176,7 +176,7 @@ pip install -r requirements.txt
 **Option A: Kaggle (Recommended)**
 
 1. Create account at [kaggle.com](https://www.kaggle.com)
-2. Go to [FER2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
+2. Go to [FER2013 Dataset](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
 3. Click "Download" button
 4. Move `fer2013.csv` to project directory
 
