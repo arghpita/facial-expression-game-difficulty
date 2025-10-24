@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Dataset (too large for GitHub)
+fer2013.csv
+
+# Model files (optional - these are large)
+*.keras
+*.h5
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Screenshots
+screenshots/
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# System
+Thumbs.db
