@@ -2,6 +2,7 @@
 venv/
 env/
 ENV/
+HEAD
 
 # Python Cache
 __pycache__/
@@ -26,10 +27,36 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+*.pyc
+__pycache__/
+
+# Dataset (too large for GitHub)
+fer2013.csv
+
+# Model files (optional - these are large)
+*.keras
+*.h5
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Screenshots
+screenshots/
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+*.tmp
+*.log
+7a317e5756655608c510a99cbecb6ba8a1485fcd
 *.swp
 *.swo
 *~
 
+HEAD
 # Temporary files
 *.log
 *.tmp
@@ -38,3 +65,15 @@ screenshot_*.jpg
 # If model files are too large, uncomment these:
 # *.keras
 # *.h5
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# System
+Thumbs.db
+7a317e5756655608c510a99cbecb6ba8a1485fcd
